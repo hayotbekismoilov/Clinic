@@ -192,3 +192,4 @@ Ushbu loyiha zamonaviy klinikaning **barcha** biznes jarayonlarini yagona raqaml
 ---
 
 *© 2026 Med-Core Professional. Barcha huquqlar himoyalangan.*
+
